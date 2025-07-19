@@ -1,0 +1,8 @@
+(asctime)s- INFO- Ingesting begin_inventory.csv in db
+(asctime)s- INFO- Ingesting end_inventory.csv in db
+(asctime)s- INFO- Ingesting purchases.csv in db
+(asctime)s- INFO- Ingesting purchase_prices.csv in db
+(asctime)s- INFO- Ingesting sales.csv in db
+(asctime)s- INFO- Ingesting vendor_invoice.csv in db
+(asctime)s- INFO- --------Ingestion Complete--------
+(asctime)s- INFO- Total Time Taken: 15.930386515458425 minutes
